@@ -1,0 +1,20 @@
+* {
+  font-family: sans-serif;
+}
+
+h1,
+h2 {
+  font-family: serif;
+}
+
+strong {
+  color: red;
+}
+
+#subtitulo--contenedor {
+  color: green;
+}
+
+.parrafo--azul {
+  color: blue;
+}

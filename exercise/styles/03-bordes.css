@@ -1,0 +1,5 @@
+p {
+  border-style: solid dashed ridge solid;
+  border-width: thick;
+  border-color: red blue lightgray yellow;
+}

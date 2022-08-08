@@ -1,0 +1,27 @@
+* {
+  font-family: sans-serif;
+}
+
+h1,
+h2 {
+  font-family: serif;
+}
+
+strong {
+  color: red;
+}
+
+#subtitulo--contenedor {
+  color: green;
+}
+
+.parrafo--azul {
+  color: blue;
+}
+
+div {
+  background-image: url("https://www.fillmurray.com/640/360");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-color: lightblue;
+}
